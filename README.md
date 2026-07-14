@@ -45,7 +45,7 @@ The Online Cake Shop website is a fully responsive web application that allows u
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Atharvkadam1/skcakes.in.net.git
+   git clone https://github.com/samarthkharote/skcakes.in.net.git
    ```
 2. Navigate to the project directory:
    ```bash
