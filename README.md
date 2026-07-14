@@ -66,7 +66,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
  📧 Contact
 
-For any inquiries, please contact Samarth Khorate at samkhorate@gmail.com
+For any inquiries, please contact Atharv Kadam at atharvkadamprofessional@gmail.com
 
 
     📂 Project Structure
